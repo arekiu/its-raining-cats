@@ -18,7 +18,7 @@ class Game {
       500,
       100,
       150,
-      "images/alex_front.gif"
+      "./images/alex_front.gif"
     );
     this.obstacles = [];
   }
